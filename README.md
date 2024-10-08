@@ -6,5 +6,5 @@ Leveraging the concept of cosine similarity, this project employs advanced data 
 Try the app here ---> [App Link](https://mrs-project-cf6a2978fc3c.herokuapp.com/)
 
 <p align="center">
-  <img src="https://github.com/Shubhendra-Yadav/Movie_Recommender_System/blob/main/screenshot.png" width="150%">
+  <img src="https://github.com/Shubhendra-Yadav/Movie_Recommender_System/blob/main/screenshot.png" width="200%">
 </p>
